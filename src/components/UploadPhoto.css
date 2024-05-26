@@ -1,0 +1,45 @@
+/* src/ChangePhotoButton.css */
+.change-photo-container {
+    display: flex;
+    align-items: center;
+    gap: 13px;
+    margin-left: 200px;
+
+}
+
+.photo-box {
+    /* width: 50px;
+    height: 50px; */
+    /* border: 1px solid #e0e0e0; */
+    border-radius: 5px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.change-photo-button {
+    display: flex;
+    align-items: center;
+    background: none;
+    border: none;
+    color: #5f6368;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.change-photo-button .upload-icon::before {
+    content: '⬆️'; /* You can replace this with an actual icon from a library like Font Awesome */
+    margin-right: 5px;
+    
+}
+.arrow{
+    width: 6%;
+    height: 6%;
+    /* object-fit: cover; */
+}

@@ -1,0 +1,16 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    width: 160px; 
+    margin: 42px -1px; 
+    background-color: #D7DFE9;
+    padding: 5px;
+}
+.selected{
+
+    background-color: blue;
+    color:white;
+}

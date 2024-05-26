@@ -1,0 +1,33 @@
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:whitesmoke;
+    color: #fff;
+    padding: 10px;
+    border-bottom: 1px solid black; 
+}
+
+.logo img {
+    width: 100px; /* Adjust as needed */
+}
+.actions{
+    display: flex;
+    flex-direction: row;
+    
+}
+.actions button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 20px 8px 20px;
+    border-radius: 4px;
+    margin-right: 10px;
+
+}
+
+.actions .profile-image {
+    width: 40px; /* Adjust as needed */
+    border-radius: 50%;
+    
+}

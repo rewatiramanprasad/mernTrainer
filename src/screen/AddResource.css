@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    
+    flex-direction: column;
+    /* background-color: blue; */
+}
+.innerContainerLogin{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    /* background-color: yellow; */
+}
+

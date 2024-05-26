@@ -1,0 +1,15 @@
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 87vh; /* Full viewport height */
+    background-color: #f0f0f0; /* Optional background color */
+}
+
+.responsive-image {
+    width: 720px;
+    height: 1058px;
+    /* object-fit:cover; Ensures the image covers the dimensions without distortion */
+    max-width: 100%; /* Ensures responsiveness */
+    max-height: 100%;
+}

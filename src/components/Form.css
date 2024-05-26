@@ -1,0 +1,39 @@
+.userButton{
+
+background-color: transparent;
+color: black;
+border: none;
+
+}
+
+h3{
+margin-left: -137px;
+}
+.form{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 100px;
+
+}
+.element{
+    padding: 11px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 169px;
+    font-size: small;
+}
+.textarea{
+    width: 160px;
+    height:80px
+}
+.createButton{
+    background-color: blue;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10%;
+    color: white;
+    margin-left: -118px;
+}

@@ -9,9 +9,9 @@ import Login from './screen/Login';
 function App() {
   return (
     // <div className="App">
-      <Router>
+      <Router basename='/merntrainer'>
         <Routes>
-        <Route path="/" exact element={<Home/>} />
+        <Route path="/merntrainer" exact element={<Home/>} />
         <Route path="/newresource"  element={<AddResource/>} /> 
         <Route path="/login"  element={<Login/>} /> 
         </Routes>

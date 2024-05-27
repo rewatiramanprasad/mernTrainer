@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/merntrainer/static/css/main.efa2acce.css",
-    "main.js": "/merntrainer/static/js/main.d108c54e.js",
+    "main.js": "/merntrainer/static/js/main.8778d9e3.js",
     "static/js/453.e23de389.chunk.js": "/merntrainer/static/js/453.e23de389.chunk.js",
     "static/media/loginTiles.png": "/merntrainer/static/media/loginTiles.51a803bc62d56c82e619.png",
     "static/media/LoginBg.png": "/merntrainer/static/media/LoginBg.6cfa3185fc32d794b49f.png",
     "static/media/profile.png": "/merntrainer/static/media/profile.62dfbe230a6f9edbf0db.png",
     "index.html": "/merntrainer/index.html",
     "main.efa2acce.css.map": "/merntrainer/static/css/main.efa2acce.css.map",
-    "main.d108c54e.js.map": "/merntrainer/static/js/main.d108c54e.js.map",
+    "main.8778d9e3.js.map": "/merntrainer/static/js/main.8778d9e3.js.map",
     "453.e23de389.chunk.js.map": "/merntrainer/static/js/453.e23de389.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efa2acce.css",
-    "static/js/main.d108c54e.js"
+    "static/js/main.8778d9e3.js"
   ]
 }
